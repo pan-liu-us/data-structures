@@ -1,8 +1,8 @@
-# data-structures
+
 This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
 
 <div>
-  <h1 id="exercise-data-structures">Exercise: Data Structures</h1>
+  <h1 id="exercise-data-structures">Data Structures</h1>
   <h2 id="sprint-one-object-oriented-programming">Sprint One: Object-Oriented Programming</h2>
   <hr>
   <p>In this assignment, we'll implement and test two basic data structures:</p>
